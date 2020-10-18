@@ -10,7 +10,7 @@ spring:
             server:
                 git:
                     #note on URI
-                    uri: https://github.com/sfg-beer-works/sfg-config-repo/
+                    uri: https://github.com/aCodeRancher/sfg-config-repo/
                     clone-on-start: true
                    # username: springframeworkguru
                     #Needed to setup search paths
